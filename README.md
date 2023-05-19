@@ -1,1 +1,2 @@
-# prisma-graphql-dev-club
+# template
+template project
